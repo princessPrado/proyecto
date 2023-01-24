@@ -1,0 +1,12 @@
+librerias para a instalar
+pip install uvicorn gunicorn fastapi pydantic sklearn pandas 
+
+intalar un entorno virtual
+pip install virtualenv
+
+crear un entorno
+virtualenv mientorno 
+
+activar el entorno
+mientorno\Scripts\activate
+
